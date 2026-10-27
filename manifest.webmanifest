@@ -1,0 +1,20 @@
+{
+  "id": "/orcamento-da-casa/",
+  "name": "Orçamento da Casa",
+  "short_name": "Orçamento",
+  "description": "Controle de gastos da família.",
+  "lang": "pt-BR",
+  "start_url": "/orcamento-da-casa/",
+  "scope": "/orcamento-da-casa/",
+  "display": "standalone",
+  "background_color": "#F2F1ED",
+  "theme_color": "#2D5E8C",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
